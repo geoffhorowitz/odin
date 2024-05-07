@@ -1,2 +1,2 @@
-# odin_project
-Odin Project
+# odin
+Odin Repo
